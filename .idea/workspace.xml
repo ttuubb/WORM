@@ -6,12 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="e3c86ba6-42c9-4023-bf2c-bbf54856a94f" name="更改" comment="">
       <changelist_data name="ttuubb" email="ttuubb1988@outlook.com" automatic="false" />
-      <change afterPath="$PROJECT_DIR$/1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/WORM.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/WORM.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pd.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sunoai/suno_tenders.csv" beforeDir="false" afterPath="$PROJECT_DIR$/sunoai/suno_tenders.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sunoai/sunoai.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/sunoai/sunoai.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yt/tencent.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/yt/tencent.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,20 +51,21 @@
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.language.and.region&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-PY-251.25410.159" />
-        <option value="bundled-python-sdk-e0ed3721d81e-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.159" />
+        <option value="bundled-js-predefined-d6986cc7102b-b26f3e71634d-JavaScript-PY-251.26094.141" />
+        <option value="bundled-python-sdk-9f8e2b94138c-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26094.141" />
       </set>
     </attachedChunks>
   </component>
@@ -89,6 +88,8 @@
       <workItem from="1749639759447" duration="129000" />
       <workItem from="1749667705894" duration="3401000" />
       <workItem from="1749671506885" duration="270000" />
+      <workItem from="1749834955526" duration="127000" />
+      <workItem from="1749835116765" duration="292000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
